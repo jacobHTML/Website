@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\archetypes",
+    "\\layouts",
+    "\\resources",
+    "\\static",
+    "\\themes",
+    "\\themes\\hugo-paper",
+    "\\themes\\hugo-paper\\layouts",
+    "\\themes\\hugo-paper\\layouts\\about",
+    "\\themes\\hugo-paper\\static\\css"
+  ],
+  "SelectedNode": "\\themes\\hugo-paper\\layouts\\about\\list.html",
+  "PreviewInSolutionExplorer": false
+}

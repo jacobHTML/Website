@@ -1,0 +1,4 @@
+baseURL = "https://jacobhtml.github.io/"
+languageCode = "en-us"
+title = "Jake Bravo's blog"
+theme = "hugo-paper"
