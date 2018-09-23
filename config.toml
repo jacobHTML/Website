@@ -1,4 +1,4 @@
-baseURL = "https://jakeweb.netlify.com/"
+baseURL = "https://jakebravo.com/"
 languageCode = "en-us"
 title = "Jake Bravo's blog"
 theme = "hugo-paper"
