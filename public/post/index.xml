@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jake Bravo&#39;s blog</title>
+    <link>https://jakebravo.com/post/</link>
+    <description>Recent content in Posts on Jake Bravo&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Sep 2018 13:42:49 -0500</lastBuildDate>
+    
+	<atom:link href="https://jakebravo.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Laptop</title>
+      <link>https://jakebravo.com/post/new-laptop/</link>
+      <pubDate>Sat, 22 Sep 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://jakebravo.com/post/new-laptop/</guid>
+      <description>&lt;p&gt;I got a new laptop today. Not because I wanted, but because my
+Macbook Pro mid 2012 decided it was time to say goodbye. The
+logic board killed itself two weeks ago. I&amp;rsquo;ve been very busy with
+work and studies lately, so I couldn&amp;rsquo;t find the time to go to the store
+until today (I need to see a laptop before I buy it.)
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my Blog!</title>
+      <link>https://jakebravo.com/post/welcome/</link>
+      <pubDate>Sat, 22 Sep 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://jakebravo.com/post/welcome/</guid>
+      <description>Welcome to my blog! It&amp;rsquo;s my first web page available on the internet. I decided to create one a long time ago, and I spent many hours making a good one, but in the end I decided to keep it simple and build a static site with Hugo. (I&amp;rsquo;ll make a post explaining the process soon.)
+I don&amp;rsquo;t know how much I&amp;rsquo;ll be writing or what about, but I&amp;rsquo;ll try to do an article per month at the very least.</description>
+    </item>
+    
+  </channel>
+</rss>

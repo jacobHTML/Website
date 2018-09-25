@@ -2,17 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\post",
+    "\\content\\about",
     "\\layouts",
     "\\themes",
     "\\themes\\hugo-paper",
     "\\themes\\hugo-paper\\layouts",
     "\\themes\\hugo-paper\\layouts\\about",
-    "\\themes\\hugo-paper\\layouts\\partials",
-    "\\themes\\hugo-paper\\layouts\\post",
-    "\\themes\\hugo-paper\\layouts\\_default",
-    "\\themes\\hugo-paper\\static"
+    "\\themes\\hugo-paper\\static",
+    "\\themes\\hugo-paper\\static\\css"
   ],
-  "SelectedNode": "\\themes\\hugo-paper\\layouts\\about\\list.html",
+  "SelectedNode": "\\themes\\hugo-paper\\static\\css\\style.css",
   "PreviewInSolutionExplorer": false
 }

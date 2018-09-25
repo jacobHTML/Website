@@ -257,6 +257,7 @@ pre, code {
   }
   .first-entry {
       padding:120px 0 0  0 !important;
+          padding-top: 60px;
   }
   .post-entry {
       padding:30px !important;
